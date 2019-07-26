@@ -2,3 +2,4 @@ VLY RESOLUSI
 -Konsisten untuk membuat web 2x seminggu
 -Membuat platform pengelolaan sebuah project
 -Membuat Forum Diskusi
+-Kolabaorasi dengan banyak expert
